@@ -15,6 +15,19 @@
 
 *STATMENTS : this is a complete command to be executed and can include one or more expressions.
 
+*Variables : are way to store information in the computer, can be access by the name we give to.
 
+*DataType :  is a keyword which permit to define the variable. e.g int, float, ...
 
+*Decoration Statment : is use to define a variable by including the data type, the name , and optionally to set the variable to certain value.
+
+*Expression :  is a construct that evaluates a single value.
+
+*STRING lETERAL : THIS IS ANY SEQUENCE OS CHARS SURROUNDED BY A DOUBLE QUOTES IN JAVA. it value can't be changes except it is a variable.
+
+*JAVA OPERATORS : e.g +, /, *, -
+
+*PRIMITIVE TYPE : are the most basic type in java, e.g boolean, byte, char, short, int, long, float and double.
+
+*A PACKAGE : is a way to organize our java projects, is just like a folder in which we have our different files.
 
