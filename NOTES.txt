@@ -1,0 +1,20 @@
+
+*STATIC : is a java keyword, that permit to find the codes and run it.
+
+*VOID : java keyword that makes java know that the method will not return anything.
+
+*PUBLIC : access modifier which allow us to define the scope or how other part of our code can access this code. and it generally give full access.
+
+*CLASS : is use to define a class with the name following the keyword
+
+*MAIN : 
+
+* ( ) : are always in a methods declaration and can optionally include parameters which is a way to passs information to a method.
+
+*CODE BLOCK : is use to define a block of code. and it is where we will be having statments to perform certain tasks.
+
+*STATMENTS : this is a complete command to be executed and can include one or more expressions.
+
+
+
+
