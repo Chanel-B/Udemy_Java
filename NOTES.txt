@@ -31,3 +31,5 @@
 
 *A PACKAGE : is a way to organize our java projects, is just like a folder in which we have our different files.
 
+*DiffMerge Tool : is a program that help you to visually compare and merge files on any operating system. it tels you the different between yours codes, helps compare two codes.
+
