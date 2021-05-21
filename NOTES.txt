@@ -21,7 +21,7 @@
 
 *Decoration Statment : is use to define a variable by including the data type, the name , and optionally to set the variable to certain value.
 
-*Expression :  is a construct that evaluates a single value.
+*EXPRESSION :  is a construct that evaluates a single value.
 
 *STRING lETERAL : THIS IS ANY SEQUENCE OS CHARS SURROUNDED BY A DOUBLE QUOTES IN JAVA. it value can't be changes except it is a variable.
 
@@ -32,4 +32,33 @@
 *A PACKAGE : is a way to organize our java projects, is just like a folder in which we have our different files.
 
 *DiffMerge Tool : is a program that help you to visually compare and merge files on any operating system. it tels you the different between yours codes, helps compare two codes.
+
+*ANNOTATION : is a short hand to provide certain informations to java compiler/complie-time and deployment-time processing/ Runtime processing (e.g :  @ovveride, @Author, ),
+
+*SERIALIZATION : serialize an object simply convert the object into byte so that it can travel over the network, so that in anyplace it can be converted back to be used and in this case it is cal deserialization. this permit java to unicly identify your object.when an update is made it increase the serialization number. by default java initialized it at 1.
+
+*DESERIALIZATION : THIS COULD THEN HELP TO AVOID ANY OBJECT FROM BEING SERIALIZED.
+
+*CONCURRENCY AND THREADS IN JAVA : 	
+	Concurrency : when we write programs we expect it to run on multiple device. so deel much with Threads and processes.
+	PROCESSES : is an execution environment, process has it own resources, it needs and..
+	THREADS : ALSO HAS THIER OWN RESOURCES AND IS A MINI PROCESS, every process has a threads because al tasks in a process are donne by threads. e.g in a cars game we have multiple threads performing multiple tasks at the same time.
+	Threads never run in sequence but in parallel, the run when they find an idle CPU it occupied that CPU, WE NEVER WHICH THRTEAD will execute first. Every time we run the code we may find a different sequence.
+
+NB: JAVA DOES NOT SURPOT MULTIPLE INHERITANCE
+
+*INTRINSIC LOCKS AND SYNCHRONIZATION : If two threads try to change the state of an object this permit that if a thread ia  working on a particular object, the object is lock and no one can access that object, and this is call INTRINSIC LOCK o MONITOR LOCK. No other thread can access a locked thread.
+
+*AUTOBOXING AND AUTO-UNBOXING : 
+	autoboxing is the automatic convert an int datatype variable to Intergere datatype cioè (int = Interger, double = Double), this is the automatic convertion that the java compiler makes, 
+	Auto-unboxing is the reverse of autoboxing.
+
+*I/O : STANDS FOR INPUT/OUTPUT this can be done from differents types of sources, 
+	an I/O streams is where the I/O sents the streams data to  the program, so when passing in, is call INPUT streams while when sending out it ia call OUTPUT streams.
+	WHICH CLASS SUPORT JAVA I/O STREAMS ? : Inputstreams, OutputStreams, ReaderStreams, ...
+
+*
+
+
+
 
